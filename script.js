@@ -1,2 +1,1 @@
-let hola= "hola como estas";
-console.log(hola)
+let numero1=10;
